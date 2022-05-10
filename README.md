@@ -4,7 +4,9 @@
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
 
 ## THEORY
-Explain the problem statement
+To implement Best-First_Search ( BFS ) algorithm to find the route between an initial state to a final state. Something like google maps. We create a dictionary to act as the dataset for the search alogrithm, containing all the distances between all the nodes ( Places ).
+
+
 
 ## DESIGN STEPS
 
